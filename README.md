@@ -16,21 +16,21 @@ description: Deep learning papers notes sharing
 
 **骨干网络**，多为图像分类的网络。
 
-* [x] [Attention Is All You Need](backbone/transformer.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">NeurIPS '17</mark>_<mark style="background-color:yellow;">)</mark>
-* [x] [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](backbone/efficientnet.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ICML '19</mark>_<mark style="background-color:yellow;">)</mark>
-* [x] [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](backbone/vit.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ICLR '21</mark>_<mark style="background-color:yellow;">)</mark>
-* [x] [Multi-Dimensional Model Compression of Vision Transformer](backbone/multi-dimensional-compression-vit.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ICME '22</mark>_<mark style="background-color:yellow;">)</mark>
-* [x] Deep Residual Learning for Image Recognition <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR '16</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] [Attention Is All You Need](backbone/transformer.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">NeurIPS '17</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](backbone/efficientnet.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ICML '19</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](backbone/vit.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ICLR '21</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] [Multi-Dimensional Model Compression of Vision Transformer](backbone/multi-dimensional-compression-vit.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ICME '22</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] Deep Residual Learning for Image Recognition <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR '16</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] Generative Adversarial Networks <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">NeurIPS '14</mark>_<mark style="background-color:yellow;">)</mark>
 
 ### Image Tampering
 
 **图像篡改检测定位**
 
-* [x] ****[ObjectFormer for Image Manipulation Detection and Localization](image-forgery/objectformer.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR '22</mark>_<mark style="background-color:yellow;">)</mark> **\[**[**Paper**](https://arxiv.org/abs/2203.14681)**]**&#x20;
-* [x] [TransForensics: Image Forgery Localization with Dense Self-Attention](image-forgery/transforensics.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ICCV '21</mark>_<mark style="background-color:yellow;">)</mark>
-* [x] [Generate, Segment, and Refine: Towards Generic Manipulation Segmentation](image-forgery/gsrnet.md)  <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">AAAI '20</mark>_<mark style="background-color:yellow;">)</mark> **\[**[**Paper**](https://arxiv.org/abs/1811.09729)**] \[**[**Code**](https://github.com/pengzhou1108/GSRNet)**]**
-* [x] [PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization](image-forgery/pscc-net.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">TCSVT '22</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] ****[ObjectFormer for Image Manipulation Detection and Localization](image-forgery/objectformer.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR '22</mark>_<mark style="background-color:yellow;">)</mark> **\[**[**Paper**](https://arxiv.org/abs/2203.14681)**]**&#x20;
+* [ ] [TransForensics: Image Forgery Localization with Dense Self-Attention](image-forgery/transforensics.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ICCV '21</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] [Generate, Segment, and Refine: Towards Generic Manipulation Segmentation](image-forgery/gsrnet.md)  <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">AAAI '20</mark>_<mark style="background-color:yellow;">)</mark> **\[**[**Paper**](https://arxiv.org/abs/1811.09729)**] \[**[**Code**](https://github.com/pengzhou1108/GSRNet)**]**
+* [ ] [PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization](image-forgery/pscc-net.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">TCSVT '22</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ICMR '22</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] Image manipulation detection by multiple tampering traces and edge artifact enhancement <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">PR '23</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] MSTA-Net: Forgery Detection by Generating Manipulation Trace Based on Multi-Scale Self-Texture Attention <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">TCSVT '21</mark>_<mark style="background-color:yellow;">)</mark>
@@ -52,10 +52,10 @@ description: Deep learning papers notes sharing
 
 **图像的拼接篡改检测定位**
 
-* [x] [Multi-Task SE-Network for Image Splicing Localization](image-splicing/multi-task-se-network.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">TCSVT '21</mark>_<mark style="background-color:yellow;">)</mark>
-* [x] [CAT-Net: Compression Artifact Tracing Network for Detection and Localization of Image Splicing](image-splicing/cat-net.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">WACV '21</mark>_<mark style="background-color:yellow;">)</mark>
-* [x] [Fighting Fake News: Image Splice Detection via Learned Self-Consistency](image-splicing/self-consistency.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ECCV '18</mark>_<mark style="background-color:yellow;">)</mark>
-* [x] [Image splicing forgery detection by combining synthetic adversarial networks and hybrid dense U-net based on multiple spaces](image-splicing/san-and-hdu-net.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">IJIS '22</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] [Multi-Task SE-Network for Image Splicing Localization](image-splicing/multi-task-se-network.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">TCSVT '21</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] [CAT-Net: Compression Artifact Tracing Network for Detection and Localization of Image Splicing](image-splicing/cat-net.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">WACV '21</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] [Fighting Fake News: Image Splice Detection via Learned Self-Consistency](image-splicing/self-consistency.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ECCV '18</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] [Image splicing forgery detection by combining synthetic adversarial networks and hybrid dense U-net based on multiple spaces](image-splicing/san-and-hdu-net.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">IJIS '22</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] [SISL:Self-Supervised Image Signature Learning for Splicing Detection & Localization](image-splicing/sisl.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPRW '22</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] Image Splicing Detection, Localization and Attribution via JPEG Primary Quantization Matrix Estimation and Clustering <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">TIFS '21</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] Adversarial Learning for Constrained Image Splicing Detection and Localization Based on Atrous Convolution <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">TIFS '19</mark>_<mark style="background-color:yellow;">)</mark>
@@ -70,8 +70,8 @@ description: Deep learning papers notes sharing
 
 **图像协调化**
 
-* [x] [Harmonizer: Learning to Perform White-Box Image and Video Harmonization](image-harmonization/harmonizer.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ECCV '22</mark>_<mark style="background-color:yellow;">)</mark>
-* [x] [Image Harmonization with Transformer](image-harmonization/ht-d-ht.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ICCV '21</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] [Harmonizer: Learning to Perform White-Box Image and Video Harmonization](image-harmonization/harmonizer.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ECCV '22</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] [Image Harmonization with Transformer](image-harmonization/ht-d-ht.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ICCV '21</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] Image Harmonization with Region-wise Contrastive Learning
 * [ ] Spatial-Separated Curve Rendering Network for Efficient and High-Resolution Image Harmonization <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ECCV '22</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] SSH: A Self-Supervised Framework for Image Harmonization <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ICCV '21</mark>_<mark style="background-color:yellow;">)</mark>
@@ -83,8 +83,8 @@ description: Deep learning papers notes sharing
 
 **人脸篡改**，以及检测问题
 
-* [x] [MC-LCR: Multi-modal contrastive classification by locally correlated representations for effective face forgery detection](face-forgery/mc-lcr.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">KBS '22</mark>_<mark style="background-color:yellow;">)</mark>
-* [x] [Multi-Scale Wavelet Transformer for Face Forgery Detection](face-forgery/multi-scale-wavelettransformer.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ACCV '22</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] [MC-LCR: Multi-modal contrastive classification by locally correlated representations for effective face forgery detection](face-forgery/mc-lcr.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">KBS '22</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] [Multi-Scale Wavelet Transformer for Face Forgery Detection](face-forgery/multi-scale-wavelettransformer.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ACCV '22</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] SSTNet: Detecting Manipulated Faces Through Spatial, Steganalysis and Temporal Features <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ICASSP '20</mark>_<mark style="background-color:yellow;">)</mark>
 * [x] Portrait shadow manipulation <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ACM MM / TOG '20</mark>_<mark style="background-color:yellow;">)</mark>
 
@@ -92,17 +92,17 @@ description: Deep learning papers notes sharing
 
 **复制移动篡改定位**问题
 
-* [x] [DOA-GAN: Dual-Order Attentive Generative Adversarial Network for Image Copy-Move Forgery Detection and Localization](copy-move/doa-gan.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR' 20</mark>_<mark style="background-color:yellow;">)</mark>
-* [x] [Two-Stage Copy-Move Forgery Detection with Self Deep Matching and Proposal SuperGlue](copy-move/selfdm-ps.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">TIP' 22</mark>_<mark style="background-color:yellow;">)</mark>
-* [x] [A Serial Image Copy-Move Forgery Localization Scheme With Source/Target Distinguishment](copy-move/cmsdnet.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">TMM' 20</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] [DOA-GAN: Dual-Order Attentive Generative Adversarial Network for Image Copy-Move Forgery Detection and Localization](copy-move/doa-gan.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR' 20</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] [Two-Stage Copy-Move Forgery Detection with Self Deep Matching and Proposal SuperGlue](copy-move/selfdm-ps.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">TIP' 22</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] [A Serial Image Copy-Move Forgery Localization Scheme With Source/Target Distinguishment](copy-move/cmsdnet.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">TMM' 20</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] QDL-CMFD: A Quality-independent and deep Learning-based Copy-Move image forgery detection method <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">Neurocomputing '22</mark>_<mark style="background-color:yellow;">)</mark>
-* [x] [BusterNet: Detecting Copy-Move Image Forgery with Source/Target Localization](copy-move/busternet.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ECCV '18</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] [BusterNet: Detecting Copy-Move Image Forgery with Source/Target Localization](copy-move/busternet.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ECCV '18</mark>_<mark style="background-color:yellow;">)</mark>
 
 ### Image Matching
 
 **特征匹配**，图像匹配问题。
 
-* [x] [LoFTR: Detector-Free Local Matching with Transformers](image-matching/loftr.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR' 21</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] [LoFTR: Detector-Free Local Matching with Transformers](image-matching/loftr.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR' 21</mark>_<mark style="background-color:yellow;">)</mark>
 
 ### Object Detection
 
